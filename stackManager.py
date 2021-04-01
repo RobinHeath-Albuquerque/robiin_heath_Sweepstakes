@@ -9,4 +9,4 @@ class StackManager:
         print(f'push from {self.stack}')
 
     def pop(self):
-        print(f'pop from {self.stack}')
+        print()

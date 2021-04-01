@@ -24,3 +24,11 @@ class Sweepstakes:
 
     def print_contestant_info(self, contestant):
         contestant.print_contestant_info(contestant)
+
+
+class WinnerMessage:
+    print("Congratulations! You Won!")
+
+
+class NotaWinnerMessage:
+    print("Congratulations to " + () + "Please play again!")
